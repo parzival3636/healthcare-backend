@@ -2,6 +2,10 @@
 
 A comprehensive Django REST API for managing healthcare operations including patient records, doctor information, and patient-doctor mappings with secure authentication. This project was developed as a Django assignment and includes all required features plus several enhancements.
 
+https://github.com/user-attachments/assets/235aea16-822f-427d-8dc4-589aa88a18d6
+
+
+
 ## Features
 
 - **User Authentication**: JWT-based authentication with registration and login
@@ -23,6 +27,9 @@ A comprehensive Django REST API for managing healthcare operations including pat
 ## Quick Start
 
 ### Prerequisites
+
+
+
 
 - Python 3.8+
 - PostgreSQL database (Render PostgreSQL or local)
